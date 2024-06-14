@@ -1,1 +1,1 @@
-see [hypr](https://github.com/hashbangs/hypr)
+Hyprland main repo: **[hypr](https://github.com/hashbangs/hypr)**
