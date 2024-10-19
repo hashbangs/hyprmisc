@@ -1,0 +1,26 @@
+                                #############################################
+                                #                                           #
+                                #       Welcome on Hyprland session         #
+                                #                                           #
+                                #             Useful Commands               #
+                                #                                           #
+                                #      Mod + R              Launcher        #
+                                #      Mod + T              Terminal        #
+                                #      Mod + E         File Explorer        #
+                                #      Mod + A                Neovim        #
+                                #      Mod + Y                Clipse        #
+                                #      Mod + G               Capture        #
+                                #                                           #
+                                #      Mod + H,J,K,L  move to window        #
+                                #      Mod + 1,2,3,4    to workspace        #
+                                #      Mod + V       toggle floating        #
+                                #      Mod + C   close active window        #
+                                #                                           #
+                                #      Mod SHIFT + Q            quit        #
+                                #      Mod SHIFT + S           sleep        #
+                                #      Mod SHIFT + X     lock screen        #
+                                #                                           #
+                                #      see ~/.config/hypr                   #
+                                #                                           #
+                                #############################################
+
