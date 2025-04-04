@@ -1,0 +1,28 @@
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Welcome to Hyprland session ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░                                                                                                          ░░
+░░               Programs                                                      Window Manager               ░░
+░░                                                                                                          ░░
+░░      meta + R         launcher                                    meta + 1 > 9     change workspace      ░░
+░░      meta + T         terminal                              meta shift + 1 > 9    send to workspace      ░░
+░░      meta + E    file explorer                                    meta + HJKL          change focus      ░░
+░░      meta + A           neovim                               meta ctrl + HJKL         resize window      ░░
+░░      meta + Y        clipboard                              meta shift + HJKL             move tile      ░░
+░░      meta + G          capture                                meta alt + HJKL            move float      ░░
+░░                                                                   meta + V          toggle floating      ░░
+░░                                                                   meta + C             close window      ░░
+░░            ███     ██████████                                                                            ░░
+░░            █████████████████████████                                                                     ░░
+░░               █████████████████████████                                                                  ░░
+░░                 ███████████████████████                                         System                   ░░
+░░               ███████████████       █████                                                                ░░
+░░               ████████████   ▒▒   ▒▒   ██                   meta shift + Q                     quit      ░░
+░░                 ████████  ▒▒▒██▒▒▒██▒▒▒██                   meta shift + S                  suspend      ░░
+░░                 ████████  ▒▒▒▒▒▒▒▒▒▒▒▒▒██                   meta shift + X              lock screen      ░░
+░░               ██░░░░░████████▒▒   ▒▒                                                                     ░░
+░░            █████████████████████████░░░█████                                                             ░░
+░░            ███████████████████████░░██████████                                                           ░░
+░░          ██████████████████████░░░███████                                                                ░░
+░░          ████████████████████░░████████                                          see ~/.config/hypr      ░░
+░░       ██████████████████████████████▓▓▓▓▓▓▓▓                                                             ░░
+░░       ███     █████▓▓▓▓▓▓▓████████▓▓▓▓▓▓▓                                                                ░░
+░░░░               ▓▓▓▓▓▓▓▓▓▓▓▓▓██▒▒▒▓▓▓▓▓       Useful Commands ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
